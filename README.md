@@ -1,1 +1,1 @@
-# workshop1_ml
+# workshop - Machine Learning
